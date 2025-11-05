@@ -1,4 +1,5 @@
 # Tushar-demo
 This is my first Git Repository
-<br>
-Author - Tushar Kumar
+<br> 
+ <b>Author - Tushar Kumar</b>
+
